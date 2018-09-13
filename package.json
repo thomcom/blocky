@@ -1,0 +1,11 @@
+{
+  "name": "blocky",
+  "version": "1.0.0",
+  "description": "Block game",
+  "main": "scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izak Halseide",
+  "license": "ISC"
+}
